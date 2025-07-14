@@ -9,3 +9,10 @@ git add .
 git commit -m "first commit"
 git branch -M main
 git push -u origin main
+
+
+- next Time
+
+git add .
+git commit -m "your message"
+git push
